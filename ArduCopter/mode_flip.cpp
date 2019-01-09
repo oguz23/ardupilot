@@ -226,3 +226,4 @@ void Copter::ModeFlip::run()
 }
 
 #endif
+// heey std::map<key, value> map; ns neye bassan bişey geliyır:)
